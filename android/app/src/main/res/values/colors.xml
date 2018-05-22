@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ab47bc</color>
+    <color name="colorPrimaryDark">#9c27b0</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tou">#00000000</color>
+    <color name="tou1">#00000000</color>
+    <color name="colorYellow">#fec146</color>
+    <color name="colorYellowDark">#ffb623</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">博客</string>
+    <string name="weapon_inc">分类</string>
+    <string name="sub_inc">全部</string>
+    <string name="thing_inc">我的</string>
+
+</resources>

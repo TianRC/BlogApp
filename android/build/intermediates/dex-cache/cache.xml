@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/6.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="451ec15a4e72afea99b8f807f6239a6cbd6b580e">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/25.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc1fb42f9e080e1ec73cbd40c4d267a5707ce763">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/16.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8694e6ba7de53d5b45d5cc32d43379b30dd7275b">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/5.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8c80525f0464f76b57b8e7fc195648e8c6ec1df7">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/21.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c369fc9265e8f1a8c9bf2af4946b5dfe89314253">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/20.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8691d68f2f82cc704da7bb7b90133a97e03fcd9f">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/18.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/26.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="361930a94fe63b2c2e374de66025c008f5467647">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3fa7097bb38b3f704b5df357203890a9ac3d403a">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/19.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6395b8ff967b8ed104c22c530f8dff424b0a19c">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/8.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20628038c3c8e81699750c4d6ba428be12bdb31f">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/13.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae17152c2ffa4781580df96448a881fe83b75456">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/23.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="442580896d1367c4c96e5f55cc1d85350719e82a">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/12.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f25011f435d6e053543d342edb92fe74dfa79f85">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/17.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2f2f28a59cf8994d207a301c6fe75a66cb07a09">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/10.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="189c89b9bd91f47cbde9846e1b0e4dd372be62ce">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/14.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="680cdd902bac3f7af90f8902194d26806336b220">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af45b2f80f1f6738cb42e5ac62edd203a232bc57">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/22.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fff838b742300bbe6f30e9ceff4936710476d897">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/7.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b0825db1f30a9f2f0bf7d58c7ae30dd8948570b">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/27.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8740ab86d3f5c374e57d656767d26560ad6b1aa0">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/9.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cb8f567cb1ddc935b7ceab953cc7425f7953a470">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/11.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9049c8e910a95489f7ae4b20a5fb4557fb3b9cb0">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/28.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bb04b48072ef3a1c1f9572ce72c2c61bd03a9a39">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/4.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a453c017c3d56fa588cfb938eaacb875660e0cb">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/15.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c71d98bf54ca055d5a18fb715b7db9c3e1e64f32">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/desugar/release/24.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a36d943b486c9ce9a6c8daf4d2640886768a9e77">
+        <dex dex="/Users/tianrongchuang/ApkProjects/blog/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+
+</items>

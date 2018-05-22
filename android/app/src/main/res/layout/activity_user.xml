@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <com.trc.shift.customView.WaveView
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="100dp">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="51dp"
+            android:paddingLeft="40dp"
+            app:theme="@style/EditextTheme">
+
+            <EditText
+                android:drawableLeft="@mipmap/user_name"
+                android:id="@+id/input_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="18dp"
+                android:fontFamily="@font/stander_enlish_nostold"
+                android:hint="Please enter the user name."
+                android:paddingBottom="22dp"
+                android:paddingTop="7dp"
+                android:singleLine="true"
+                android:textColor="#3b3b3b"
+                android:textSize="15sp" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="51dp"
+            android:paddingLeft="40dp"
+            app:theme="@style/EditextTheme">
+
+            <EditText
+                android:drawableLeft="@mipmap/pass_word"
+                android:id="@+id/input_psw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="18dp"
+                android:fontFamily="@font/stander_enlish_nostold"
+                android:hint="Please enter password"
+                android:paddingBottom="22dp"
+                android:paddingTop="7dp"
+                android:singleLine="true"
+                android:textColor="#3b3b3b"
+                android:textSize="15sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <!-- Email Label -->
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="40dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_login"
+            android:fontFamily="@font/stander_english"
+            android:text="Sign In"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</RelativeLayout>

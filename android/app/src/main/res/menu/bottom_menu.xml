@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bottom_one"
+            android:icon="@mipmap/tab_btn_1"
+            android:title="@string/weapon_inc" />
+        <item
+            android:id="@+id/bottom_two"
+            android:icon="@mipmap/tab_btn_2"
+            android:title="@string/sub_inc" />
+        <item
+            android:id="@+id/bottom_three"
+            android:icon="@mipmap/tab_btn_3"
+            android:title="@string/thing_inc" />
+    </group>
+
+</menu>
