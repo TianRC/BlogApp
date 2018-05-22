@@ -1,0 +1,12 @@
+{
+  "dev": true,
+  "host": "0.0.0.0",
+  "port": 8001,
+  "mongoDb": "mongodb://127.0.0.1:27017/",
+  "mongoDbName": "Words",
+  "logger": true,
+  "wechat": {
+    "AppID": "wx4b50b55b0557ff9e",
+    "AppSecret": "9f2949dfd5a0b28c9e08b43a4984d61b"
+  }
+}
